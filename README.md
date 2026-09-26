@@ -1,4 +1,4 @@
-<center><img scr= "THT/Screenshot202026-09-2620090531.jpg"></img></center>
+<center><img src= "THT/Screenshot 2026-09-26 090531.jpg"></img></center>
 
 # THT(Food Delivery Times)
   Project ini bertujuan melihat performace dari data "Food Delivery Times" untuk mengetahui faktor -faktor apa saja yang mempengaruhi lama sebentarnya wakktu pengantaran.
